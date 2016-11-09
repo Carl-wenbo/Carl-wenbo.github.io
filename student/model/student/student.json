@@ -1,0 +1,49 @@
+loadData([{
+  "id":"3001",
+  "name":"terry",
+ "clazzName":"01班",
+  "gender":"男",
+  "grade":"87"
+},{
+  "id":"3002",
+  "name":"aerry",
+  "clazzName":"02班",
+  "gender":"女",
+  "grade":"45"
+},{
+  "id":"3003",
+  "name":"berry",
+  "clazzName":"03班",
+  "gender":"男",
+  "grade":"77"
+},{
+  "id":"3004",
+  "name":"cerry",
+  "clazzName":"04班",
+  "gender":"男",
+  "grade":"33"
+},{
+	"id":"3005",
+  "name":"derry",
+  "clazzName":"05班",
+  "gender":"女",
+  "grade":"66"
+},{
+	"id":"3006",
+  "name":"ferry",
+  "clazzName":"06班",
+  "gender":"男",
+  "grade":"21"
+},{
+	"id":"3007",
+  "name":"gerry",
+  "clazzName":"07班",
+  "gender":"男",
+  "grade":"82"
+},{
+	"id":"3008",
+  "name":"herry",
+  "clazzName":"08班",
+  "gender":"女",
+  "grade":"88"
+}]);
