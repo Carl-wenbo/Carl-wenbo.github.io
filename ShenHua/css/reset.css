@@ -1,0 +1,5 @@
+/* CSS Document */
+*{ font-family:"微软雅黑","宋体","黑体";}
+body,ul,li,ol,dl,dt,dd,table,tbody,tr,td,th,h1,h2,h3,h4,input{ margin:opx; padding:0px; font-weight:normal; font-size:14px;}
+a{ text-decoration:none; }
+li{ list-style:none;}
